@@ -1,0 +1,37 @@
+@import '../../css/variables.css';
+
+.leftPanel {
+  font-family: 'sans-serif';
+  font-size: 16px;
+}
+
+.profile-name {
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.profile-username {
+  font-weight: 200;
+}
+
+.profile-bio {
+  margin: 10px 0;
+}
+
+.follow-button {
+  padding: 5px 60px;
+  margin-right: 10px;
+}
+
+.dot-button {
+  padding: 5px 30px;
+}
+
+.networking {
+  margin: 10px 0 20px 0;
+}
+
+.icon {
+  margin: 0 5px 10px 0;
+}
